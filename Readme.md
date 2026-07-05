@@ -1,6 +1,8 @@
 # Task Tracker CLI
 
-A simple command-line interface (CLI) application to track and manage your tasks — built as part of the [Task Tracker project](https://roadmap.sh/projects/task-tracker) on roadmap.sh.
+A simple command-line interface (CLI) application to track and manage your tasks — built as part of the Task Tracker project on roadmap.sh.
+
+Project URL: https://roadmap.sh/projects/task-tracker
 
 This project was built to practice working with the filesystem, handling user input, and building a CLI application — without relying on any external libraries or frameworks.
 
