@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "description": "Buy groceries",
+        "status": "done",
+        "createdAt": "2026-07-05 15:13:09",
+        "updatedAt": "2026-07-05 15:13:09"
+    },
+    {
+        "id": 2,
+        "description": "Finish homework",
+        "status": "in-progress",
+        "createdAt": "2026-07-05 15:13:09",
+        "updatedAt": "2026-07-05 15:13:09"
+    },
+    {
+        "id": 3,
+        "description": "Clean the house",
+        "status": "todo",
+        "createdAt": "2026-07-05 15:13:09",
+        "updatedAt": "2026-07-05 15:13:09"
+    },
+    {
+        "id": 4,
+        "description": "Read a book",
+        "status": "in-progress",
+        "createdAt": "2026-07-05 15:13:09",
+        "updatedAt": "2026-07-05 15:13:09"
+    },
+    {
+        "id": 5,
+        "description": "Walk the dog",
+        "status": "in-progress",
+        "createdAt": "2026-07-05 15:13:09",
+        "updatedAt": "2026-07-05 15:13:09"
+    },
+    {
+        "id": 6,
+        "description": "buy groceries",
+        "status": "todo",
+        "createdAt": "2026-07-05 15:13:23",
+        "updatedAt": "2026-07-05 15:13:23"
+    },
+    {
+        "id": 7,
+        "description": "Task with 'single quotes'",
+        "status": "todo",
+        "createdAt": "2026-07-05 15:13:39",
+        "updatedAt": "2026-07-05 15:13:39"
+    },
+    {
+        "id": 8,
+        "description": "New task 1",
+        "status": "todo",
+        "createdAt": "2026-07-05 15:14:28",
+        "updatedAt": "2026-07-05 15:14:28"
+    },
+    {
+        "id": 9,
+        "description": "New task 2",
+        "status": "todo",
+        "createdAt": "2026-07-05 15:14:28",
+        "updatedAt": "2026-07-05 15:14:28"
+    }
+]
